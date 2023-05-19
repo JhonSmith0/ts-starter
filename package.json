@@ -27,7 +27,5 @@
       "path": "timbo-cz-conventional-changelog"
     }
   },
-  "dependencies": {
-    "axios": "^1.4.0"
-  }
+  "dependencies": {}
 }
